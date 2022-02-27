@@ -25,3 +25,5 @@ https://www.bleepingcomputer.com/news/security/multiple-ukrainian-government-web
 https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/
 
 https://therecord.media/ukraine-says-belarusian-hackers-are-targeting-its-military-personnel/
+
+https://securityaffairs.co/wordpress/128397/apt/belarusian-unc1151-targets-ukraine.html?utm_source=rss
