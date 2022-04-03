@@ -31,3 +31,7 @@ https://securityaffairs.co/wordpress/128397/apt/belarusian-unc1151-targets-ukrai
 https://www.securityweek.com/hacked-ukrainian-military-emails-used-attacks-european-governments
 
 https://www.recordedfuture.com/ghostwriter-in-the-shell/
+
+https://securityaffairs.co/wordpress/129527/apt/ghostwriter-apt-targets-state-entities-of-ukraine-with-cobalt-strike-beacon.html
+
+https://cert.gov.ua/article/38155
