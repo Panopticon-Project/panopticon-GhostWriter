@@ -35,3 +35,5 @@ https://www.recordedfuture.com/ghostwriter-in-the-shell/
 https://securityaffairs.co/wordpress/129527/apt/ghostwriter-apt-targets-state-entities-of-ukraine-with-cobalt-strike-beacon.html
 
 https://cert.gov.ua/article/38155
+
+https://blog.google/threat-analysis-group/update-on-cyber-activity-in-eastern-europe/
